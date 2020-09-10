@@ -1,0 +1,28 @@
+Script started on Mon Jan 28 21:40:45 2019
+[?1h=
+******************************************************************
+                        WELCOME TO CSE 12!
+
+****************************************************************** 
+[7m/home/linux/ieng6/cs12x/public/broadcast (END)[27m[K[K[K[?1l>]0;[cs12x]  cs12xcm@its-cseb250-08.ucsd.edu:/home/linux/ieng6/cs12x/cs12xcm/hw4[?1034h[cs12xcm@its-cseb250-08]:hw4:567$ ./calc
+
+Please enter an expression to calculate:  (5!-20)^2
+
+The expression in postfix order is:  5 ! 20 - 2 ^ 
+	which evaluates to:  10000
+
+Please enter an expression to calculate:  1_ +2*3
+
+The expression in postfix order is:  1 2 3 * + 
+	which evaluates to:  7
+
+Please enter an expression to calculate:  (1+2)*3
+
+The expression in postfix order is:  1 2 + 3 * 
+	which evaluates to:  9
+
+Please enter an expression to calculate:  
+[cs12xcm@its-cseb250-08]:hw4:568$ exit
+exit
+
+Script done on Mon Jan 28 21:41:27 2019
